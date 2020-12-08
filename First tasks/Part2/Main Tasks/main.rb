@@ -1,4 +1,3 @@
-#Main tasks
 #task1
 def print_hello()
     text1 = "Hello "
