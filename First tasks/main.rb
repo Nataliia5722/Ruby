@@ -15,3 +15,9 @@ puts var[1]
 puts var[4]
 
 #task3
+a = gets.chomp.to_i
+if a>0 and a<5
+    puts "Ok"
+else
+    puts "Wrong"
+end
